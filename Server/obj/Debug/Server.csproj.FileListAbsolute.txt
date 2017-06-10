@@ -1,0 +1,11 @@
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\Server\bin\Debug\Server.exe.config
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\Server\bin\Debug\Server.exe
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\Server\bin\Debug\Server.pdb
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\Server\obj\Debug\Server.Properties.Resources.resources
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\Server\obj\Debug\Server.ServerForm.resources
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\Server\obj\Debug\Server.exe
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\Server\obj\Debug\Server.pdb
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\Server\bin\Debug\FileTransfer.exe
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\Server\bin\Debug\FileTransfer.pdb

@@ -1,0 +1,9 @@
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\FileTransfer\bin\Debug\FileTransfer.exe.config
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\FileTransfer\bin\Debug\FileTransfer.exe
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\FileTransfer\bin\Debug\FileTransfer.pdb
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\FileTransfer\obj\Debug\FileTransfer.Properties.Resources.resources
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\FileTransfer\obj\Debug\FileTransfer.csproj.GenerateResource.Cache
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\FileTransfer\obj\Debug\FileTransfer.exe
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\FileTransfer\obj\Debug\FileTransfer.pdb
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\FileTransfer\obj\Debug\FileTransfer.csprojResolveAssemblyReference.cache
+c:\users\skibin.csoft0\documents\visual studio 2015\Projects\FileTransfer\FileTransfer\obj\Debug\FileTransfer.MainForm.resources
